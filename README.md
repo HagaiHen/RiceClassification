@@ -1,4 +1,4 @@
-# Rice Classification using Deep Learning
+# Rice Classification using PyTorch
 This project focuses on classifying rice grains using deep learning techniques. The goal is to develop a model that can accurately classify rice grain images into different classes. The project utilizes the PyTorch framework and implements a neural network architecture for training and evaluation.
 
 ## Dataset
