@@ -12,6 +12,9 @@ https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset/download?da
 ## Getting Started
 - Clone the repository to your local machine.
 - Ensure that you have the necessary dependencies installed. You can find the required libraries in the requirements.txt file.
+```
+pip install -r requirements.txt
+```
 - Prepare your dataset by providing the path to the CSV file (image_names.csv) and the folder containing the images (Allpics).
 - Adjust the hyperparameters in the config.py file according to your preferences.
 - Run the rain.py file to start training the model. The training progress will be displayed, showing the loss at each step.
